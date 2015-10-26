@@ -1,9 +1,9 @@
-CardinalPGM [![Build Status](https://travis-ci.org/twizmwazin/CardinalPGM.svg?branch=master)](https://travis-ci.org/twizmwazin/CardinalPGM)
+ZwelgjePGM [![Build Status](https://travis-ci.org/twizmwazin/CardinalPGM.svg?branch=master)](https://travis-ci.org/twizmwazin/CardinalPGM)
 ===========
 
-This is the next PGM clone.
+This is the next PGM clone. Edited version. V5.0
 
-Downloads can be found on [ci.twizmwaz.in](http://ci.twizmwaz.in/job/Cardinal/). It is imperative that users stay on the latest version, so please check for updates regularly. 
+Downloads can be found on https://github.com/TeamDDG/ZwelgjePGM/releases. It is imperative that users stay on the latest version, so please check for updates regularly. 
 
 Feel free to submit pull requests and/or issues to help further development. If you find an issue, please submit an issue so a developer can resolve it as soon as possible. If an issue is found with a dependency, submit your issue to the dependency's repository.
 
@@ -28,4 +28,4 @@ Before submitting a Pull Request, to increase the chances of the pull request be
 - Do not use the GitHub editor to edit Java files. Use a proper IDE such as IntelliJ or Eclipse.
 
 ##Compiling
-To compile and run the latest development version of CardinalPGM, you will need [JDK7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and [Apache-Maven](http://maven.apache.org/). On most Linux distributions, you can find both packages in your default repositories. To compile, simply run `mvn clean install` in your command line, in the CardinalPGM directory. The plugin should be found in `target/`, as `CardinalPGM-1.0-SNAPSHOT.jar`.
+To compile and run the latest development version of CardinalPGM, you will need [JDK7](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html) and [Apache-Maven](http://maven.apache.org/). On most Linux distributions, you can find both packages in your default repositories. To compile, simply run `mvn clean install` in your command line, in the CardinalPGM directory. The plugin should be found in `target/`, as `ZwelgjePGM.jar`.
